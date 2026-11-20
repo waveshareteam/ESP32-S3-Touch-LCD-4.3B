@@ -13,6 +13,10 @@ Combined with various peripheral interfaces (such as CAN, I2C and RS485 interfac
 
 ---
 
+## Quick Start
+
+For integrated firmware and flashing instructions, see [firmware/](firmware/).
+
 ## 🔧 Configuration
 
 You can find detailed configuration information on the product wiki page
