@@ -8,6 +8,8 @@ Choose the LVGL demo image for your model, screen type, and resolution.
 | --- | --- | --- | --- |
 | ESP32-S3-Touch-LCD-4.3B | Touch | 800 × 480 | [`ESP32-S3-Touch-LCD-4.3B_FactoryOnly_20260225.bin`](ESP32-S3-Touch-LCD-4.3B_FactoryOnly_20260225.bin) |
 
+The firmware above applies to both the standard ESP32-S3-Touch-LCD-4.3B and the enclosed ESP32-S3-Touch-LCD-4.3B-BOX. In the Firmware Center, select ESP32-S3-Touch-LCD-4.3B for either version.
+
 Connect the board with a USB data cable. Open a terminal in this directory, use esptool 5 or later, and replace `PORT` with the board's serial port.
 
 Back up any data you need before erasing the entire flash, which clears firmware, settings, and user data.
